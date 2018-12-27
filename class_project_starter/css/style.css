@@ -1,0 +1,22 @@
+body {
+background-color: #ccd9ff;
+font-family: "Lato", sans-serif;
+color: #4d79ff;
+
+}
+
+h1 {
+text-align: center;
+}
+
+p {
+  font-style: italic;
+}
+
+img {
+  align-items: center;
+}
+
+a {
+  color: #4d79ff;
+}
